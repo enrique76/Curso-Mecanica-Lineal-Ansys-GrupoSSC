@@ -1,0 +1,20 @@
+# encoding: utf-8
+# 2022 R1
+SetScriptVersion(Version="22.1.217")
+Save(Overwrite=True)
+fileType1 = GetFileType(Name="projectArchive")
+ImportFile(
+    FilePath="G:/Mi unidad/Ansys/Mechanical Linear/Modulo #1/#1-mesh-model/Inputfile_Mechanical_Modulo1/Meshing.wbpz",
+    FileType=fileType1)
+Extensions.UnloadExtension(
+    Id="5e7e01a6-8601-11e8-9f8c-28f10e13ffe6",
+    Version="2021.2",
+    Format="Binary")
+Extensions.UnloadExtension(
+    Id="5f463412-bd3e-484b-87e7-cbc0a665e474",
+    Version="2021.1",
+    Format="Binary")
+Extensions.UnloadExtension(
+    Id="f3e3da52-fb02-4910-8cc9-980efd047bc6",
+    Version="2021.2",
+    Format="Binary")
