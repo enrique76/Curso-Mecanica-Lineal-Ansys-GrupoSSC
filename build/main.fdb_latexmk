@@ -1,6 +1,6 @@
 # Fdb version 3
-["pdflatex"] 1657071159 "d:/CURSO-ANSYS/Mechanical-Linear/main.tex" "build/main.pdf" "main" 1657071160
-  "C:/Users/enriq/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1657063131 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
+["pdflatex"] 1657073454 "d:/CURSO-ANSYS/Mechanical-Linear/main.tex" "build/main.pdf" "main" 1657073455
+  "C:/Users/enriq/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1657072946 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/enriq/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1652758034 10243109 ac40a1cf4181a6c4258437f4a940b6b0 ""
   "D:/MikText/Nueva carpeta/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233955448 1004 54797486969f23fa377b128694d548df ""
   "D:/MikText/Nueva carpeta/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1233955448 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -25,6 +25,7 @@
   "D:/MikText/Nueva carpeta/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1247596667 35752 024fb6c41858982481f6968b5fc26508 ""
   "D:/MikText/Nueva carpeta/fonts/type1/public/amsfonts/cm/cmr12.pfb" 1247596667 32722 d7379af29a190c3f453aba36302ff5a9 ""
   "D:/MikText/Nueva carpeta/fonts/type1/public/amsfonts/cm/cmr17.pfb" 1247596666 32362 bc3f3eec7ab7d65fe700963d4017d32c ""
+  "D:/MikText/Nueva carpeta/fonts/type1/public/amsfonts/cm/cmr5.pfb" 1247596667 31809 8670ca339bf94e56da1fc21c80635e2a ""
   "D:/MikText/Nueva carpeta/fonts/type1/public/amsfonts/cm/cmr9.pfb" 1247596666 33993 9b89b85fd2d9df0482bd47194d1d3bf3 ""
   "D:/MikText/Nueva carpeta/tex/context/base/mkii/supp-pdf.mkii" 1580393758 71627 94eb9990bed73c364d7f53f960cc8c5b ""
   "D:/MikText/Nueva carpeta/tex/generic/babel/babel.sty" 1651302339 148589 68a2b0e12d8cc4c9505ce35bed63d840 ""
@@ -52,10 +53,17 @@
   "D:/MikText/Nueva carpeta/tex/latex/graphics/keyval.sty" 1639596611 2671 4de6781a30211fe0ea4c672e4a2a8166 ""
   "D:/MikText/Nueva carpeta/tex/latex/graphics/trig.sty" 1639596611 4009 187ea2dc3194cd5a76cd99a8d7a6c4d0 ""
   "D:/MikText/Nueva carpeta/tex/latex/l3backend/l3backend-pdftex.def" 1650429716 31067 89623bb5c412243bea4c601866f5e8c1 ""
-  "build/main.aux" 1657071160 397 d704193955708bc61630cbf5b36a7b55 "pdflatex"
-  "build/main.toc" 1657071160 151 4551d34fc9882a66cb58a67bd7e632c4 "pdflatex"
-  "d:/CURSO-ANSYS/Mechanical-Linear/main.tex" 1657071157 622 64cb89e74e1e7af1f85d3ce7f6928fb8 ""
-  "main.tex" 1657071157 622 64cb89e74e1e7af1f85d3ce7f6928fb8 ""
+  "build/main.aux" 1657073455 413 3c21b234559804932619ca67eda1ccd2 "pdflatex"
+  "build/main.toc" 1657073455 167 a1cd8b07c9aa191efef92d6d4df67994 "pdflatex"
+  "d:/CURSO-ANSYS/Mechanical-Linear/main.tex" 1657073451 2288 10aa2eecad0d43c3a1b336bf87ef84ec ""
+  "img/StaticStructural.png" 1657072339 11392 f77e20fa2d134af8e53815b76f7a3ad9 ""
+  "img/agregarMaterial.png" 1657073137 78955 26fadadd3265e37fa820c0578acd841e ""
+  "img/generarMesh.png" 1657073295 61745 6cf7d7c45dee09590ab4096daad1b933 ""
+  "img/importalGeometria.png" 1657072419 32164 d0869e22dd2b929976426d07efb5c935 ""
+  "img/malla.png" 1657073400 290961 138cb9314550c021e692f9d7d28d6a76 ""
+  "img/mecanical.png" 1657072841 438039 8a0a5f95a3fa244b2f7557dd312c77a2 ""
+  "img/model.png" 1657072639 2681 878e753859ef35ee70cc8f66c56b7d15 ""
+  "main.tex" 1657073451 2288 10aa2eecad0d43c3a1b336bf87ef84ec ""
   (generated)
   "build/main.aux"
   "build/main.log"

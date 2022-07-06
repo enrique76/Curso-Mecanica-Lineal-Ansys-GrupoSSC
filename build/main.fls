@@ -255,6 +255,55 @@ INPUT D:\MikText\Nueva carpeta\fonts\tfm\public\cm\cmr9.tfm
 INPUT D:\MikText\Nueva carpeta\fonts\tfm\public\cm\cmbx9.tfm
 OUTPUT d:\CURSO-ANSYS\Mechanical-Linear\build\main.pdf
 INPUT C:\Users\enriq\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
+INPUT .\img\StaticStructural.png
+INPUT .\img\StaticStructural.png
+INPUT img\StaticStructural.png
+INPUT .\img\StaticStructural.png
+INPUT .\img\StaticStructural.png
+INPUT .\img\StaticStructural.png
+INPUT .\img\StaticStructural.png
+INPUT .\img\importalGeometria.png
+INPUT .\img\importalGeometria.png
+INPUT img\importalGeometria.png
+INPUT .\img\importalGeometria.png
+INPUT .\img\importalGeometria.png
+INPUT .\img\importalGeometria.png
+INPUT .\img\importalGeometria.png
+INPUT .\img\model.png
+INPUT .\img\model.png
+INPUT img\model.png
+INPUT .\img\model.png
+INPUT .\img\model.png
+INPUT .\img\model.png
+INPUT .\img\model.png
+INPUT .\img\mecanical.png
+INPUT .\img\mecanical.png
+INPUT img\mecanical.png
+INPUT .\img\mecanical.png
+INPUT .\img\mecanical.png
+INPUT .\img\mecanical.png
+INPUT .\img\mecanical.png
+INPUT .\img\agregarMaterial.png
+INPUT .\img\agregarMaterial.png
+INPUT img\agregarMaterial.png
+INPUT .\img\agregarMaterial.png
+INPUT .\img\agregarMaterial.png
+INPUT .\img\agregarMaterial.png
+INPUT .\img\agregarMaterial.png
+INPUT .\img\generarMesh.png
+INPUT .\img\generarMesh.png
+INPUT img\generarMesh.png
+INPUT .\img\generarMesh.png
+INPUT .\img\generarMesh.png
+INPUT .\img\generarMesh.png
+INPUT .\img\generarMesh.png
+INPUT .\img\malla.png
+INPUT .\img\malla.png
+INPUT img\malla.png
+INPUT .\img\malla.png
+INPUT .\img\malla.png
+INPUT .\img\malla.png
+INPUT .\img\malla.png
 INPUT d:\CURSO-ANSYS\Mechanical-Linear\build\main.aux
 INPUT D:\MikText\Nueva carpeta\fonts\type1\public\amsfonts\cm\cmbx10.pfb
 INPUT D:\MikText\Nueva carpeta\fonts\type1\public\amsfonts\cm\cmbx10.pfb
@@ -268,5 +317,7 @@ INPUT D:\MikText\Nueva carpeta\fonts\type1\public\amsfonts\cm\cmr12.pfb
 INPUT D:\MikText\Nueva carpeta\fonts\type1\public\amsfonts\cm\cmr12.pfb
 INPUT D:\MikText\Nueva carpeta\fonts\type1\public\amsfonts\cm\cmr17.pfb
 INPUT D:\MikText\Nueva carpeta\fonts\type1\public\amsfonts\cm\cmr17.pfb
+INPUT D:\MikText\Nueva carpeta\fonts\type1\public\amsfonts\cm\cmr5.pfb
+INPUT D:\MikText\Nueva carpeta\fonts\type1\public\amsfonts\cm\cmr5.pfb
 INPUT D:\MikText\Nueva carpeta\fonts\type1\public\amsfonts\cm\cmr9.pfb
 INPUT D:\MikText\Nueva carpeta\fonts\type1\public\amsfonts\cm\cmr9.pfb
